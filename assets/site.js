@@ -46,6 +46,15 @@
     }).join("");
   }
 
+  /* ---- favicon (inline SVG; vervang later door het echte logo) ---- */
+  (function () {
+    var svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="32" fill="#C0683F"/><text x="32" y="45" font-size="34" text-anchor="middle" fill="#ffffff" font-family="Georgia, serif">✿</text></svg>';
+    var link = document.createElement("link");
+    link.rel = "icon"; link.type = "image/svg+xml";
+    link.href = "data:image/svg+xml," + encodeURIComponent(svg);
+    document.head.appendChild(link);
+  })();
+
   /* ---- header ---- */
   var header = document.createElement("header");
   header.className = "site";
@@ -56,9 +65,30 @@
       '<div class="nav-cta">' +
         '<a href="inspiratie.html" class="btn btn--ghost btn--small">Inspiratie</a>' +
         '<a href="product.html" class="btn btn--small">Bekijk het boekje</a>' +
+        '<button class="nav-toggle" aria-label="Menu openen/sluiten" aria-expanded="false"><span></span><span></span><span></span></button>' +
       "</div>" +
+    "</div>" +
+    '<div class="mobile-menu">' + navLinks() +
+      '<a href="product.html" class="btn btn--small">Bekijk het boekje</a>' +
     "</div>";
   document.body.insertBefore(header, document.body.firstChild);
+
+  /* ---- mobiel menu togglen ---- */
+  (function () {
+    var tog = header.querySelector(".nav-toggle");
+    var menu = header.querySelector(".mobile-menu");
+    if (!tog || !menu) return;
+    tog.addEventListener("click", function () {
+      var open = menu.classList.toggle("open");
+      tog.classList.toggle("open", open);
+      tog.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    menu.querySelectorAll("a").forEach(function (a) {
+      a.addEventListener("click", function () {
+        menu.classList.remove("open"); tog.classList.remove("open"); tog.setAttribute("aria-expanded", "false");
+      });
+    });
+  })();
 
   /* ---- footer ---- */
   var footer = document.createElement("footer");

@@ -1,7 +1,7 @@
 # Lichte lokale webserver voor het bekijken van concept.html
 # Start: rechtsklik > Run with PowerShell, of: powershell -ExecutionPolicy Bypass -File serve.ps1
 $root = $PSScriptRoot
-$port = 8000
+$port = if ($env:PORT) { [int]$env:PORT } else { 8000 }
 $prefix = "http://localhost:$port/"
 
 $listener = New-Object System.Net.HttpListener
