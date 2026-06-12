@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="nl">
+<!--
+  ============================================================
+  SEO / AEO PAGINA-TEMPLATE  ·  [ merknaam ]
+  ============================================================
+  Kopieer dit bestand naar bv. "seo-<onderwerp>.html" en vervang
+  alles tussen {{ dubbele accolades }}.  De HTML-commentaren (🔧)
+  leggen per blok uit waaróm het er staat — vooral belangrijk voor
+  AI-vindbaarheid (ChatGPT, Google AI, Perplexity, enz.).
+
+  GOUDEN REGELS:
+  • 1 pagina = 1 duidelijke zoekvraag/onderwerp.
+  • Geef het antwoord BOVENAAN (AI's citeren het direct-antwoord-blok).
+  • Schrijf feitelijk, zelfstandig leesbaar en in mensentaal.
+  • Koppen = vragen zoals mensen ze typen/uitspreken.
+  • Houd de JSON-LD onderaan gelijk aan de zichtbare tekst.
+  ============================================================
+-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- 🔧 TITEL: max ~60 tekens, zet het zoekwoord vooraan -->
+<title>{{Zoekwoord-titel}} — [ merknaam ]</title>
+
+<!-- 🔧 BESCHRIJVING: max ~155 tekens, 1 heldere zin met het zoekwoord -->
+<meta name="description" content="{{Korte, wervende beschrijving met je zoekwoord erin.}}" />
+
+<!-- 🔧 CANONICAL: de definitieve URL van deze pagina (voorkomt dubbele content) -->
+<link rel="canonical" href="https://www.{{jouwdomein.nl}}/{{seo-onderwerp}}.html" />
+
+<!-- Social preview (Open Graph + Twitter) -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{Zoekwoord-titel}}" />
+<meta property="og:description" content="{{Korte beschrijving}}" />
+<meta property="og:locale" content="nl_NL" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,500&family=Nunito+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<script>(function(){try{var t=localStorage.getItem('sass-theme'),f=localStorage.getItem('sass-font');document.documentElement.setAttribute('data-theme',t||'klei');document.documentElement.setAttribute('data-font',f||'serif');}catch(e){document.documentElement.setAttribute('data-theme','klei');document.documentElement.setAttribute('data-font','serif');}})();</script>
+<link rel="stylesheet" href="assets/styles.css" />
+
+<!-- ====================================================================
+     STRUCTURED DATA (JSON-LD) — dit "vertelt" zoekmachines én AI exact
+     wat er op de pagina staat. Houd de teksten gelijk aan de inhoud.
+     ==================================================================== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{Zoekwoord-titel}}",
+  "description": "{{Korte beschrijving}}",
+  "inLanguage": "nl-NL",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "author": { "@type": "Organization", "name": "[ merknaam ]" },
+  "publisher": { "@type": "Organization", "name": "[ merknaam ]" }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.{{jouwdomein.nl}}/" },
+    { "@type": "ListItem", "position": 2, "name": "{{Zoekwoord-titel}}" }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{Vraag 1?}}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{Kort, volledig antwoord op vraag 1.}}" }
+    },
+    {
+      "@type": "Question",
+      "name": "{{Vraag 2?}}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{Kort, volledig antwoord op vraag 2.}}" }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<main>
+  <div class="wrap narrow">
+    <!-- 🔧 BREADCRUMB: helpt zowel bezoekers als crawlers -->
+    <div class="crumb"><a href="index.html">Home</a> &nbsp;›&nbsp; {{Zoekwoord-titel}}</div>
+
+    <article class="article">
+      <!-- 🔧 CATEGORIE/EYEBROW (optioneel) -->
+      <p class="meta">{{Categorie}} · {{X}} min lezen</p>
+
+      <!-- 🔧 H1: precies één per pagina. Zet het exacte zoekwoord erin. -->
+      <h1>{{Hoofdkop met je zoekwoord}}</h1>
+
+      <!-- 🔧 BYLINE: vertrouwen/E-E-A-T (wie zegt dit, sinds wanneer) -->
+      <div class="byline">
+        <span class="av">✿</span>
+        <span>Door [ merknaam ]</span><span class="dot"></span>
+        <span>Bijgewerkt 12 juni 2026</span>
+      </div>
+
+      <!-- ====================================================================
+           🔧 DIRECT ANTWOORD — HÉT belangrijkste blok voor AI-vindbaarheid.
+           Beantwoord de zoekvraag hier in 2–3 complete, zelfstandige zinnen.
+           AI-engines citeren vaak letterlijk deze alinea.
+           ==================================================================== -->
+      <div class="answer">
+        <span class="k">Kort antwoord</span>
+        <p>{{Geef hier in 2–3 zinnen het directe antwoord op de zoekvraag. Begin met de kern, schrijf feitelijk en volledig, zodat de alinea ook losgeknipt klopt.}}</p>
+      </div>
+
+      <!-- 🔧 FEITEN-TABEL — machine-leesbare kernfeiten (AI pakt dit graag op) -->
+      <div class="keyfacts">
+        <div class="row"><span>{{Kenmerk}}</span><span>{{Waarde}}</span></div>
+        <div class="row"><span>{{Kenmerk}}</span><span>{{Waarde}}</span></div>
+        <div class="row"><span>{{Kenmerk}}</span><span>{{Waarde}}</span></div>
+        <div class="row"><span>{{Kenmerk}}</span><span>{{Waarde}}</span></div>
+      </div>
+
+      <!-- ============ HOOFDTEKST ============ -->
+      <div class="prose">
+        <!-- 🔧 INTRO: 1 alinea context onder het directe antwoord -->
+        <p>{{Inleidende alinea die het onderwerp kadert en uitnodigt om verder te lezen.}}</p>
+
+        <!-- 🔧 KOP = VRAAG zoals mensen die stellen aan Google/ChatGPT -->
+        <h2>{{Wat is …? / Hoe doe je …?}}</h2>
+        <p>{{Antwoord in heldere taal. Eén idee per alinea.}}</p>
+
+        <h2>{{Tweede vraag/sectie}}</h2>
+        <p>{{Tekst.}}</p>
+        <ul>
+          <li>{{Opsomming maakt het scanbaar — en citeerbaar.}}</li>
+          <li>{{Punt 2}}</li>
+          <li>{{Punt 3}}</li>
+        </ul>
+
+        <!-- 🔧 TIP-BLOK: subtiele, relevante link naar het product -->
+        <div class="tip">
+          <strong>Tip:</strong> {{Korte, behulpzame tip die natuurlijk naar het ik-boekje leidt.}}
+        </div>
+
+        <h2>{{Derde vraag/sectie}}</h2>
+        <p>{{Tekst.}}</p>
+      </div>
+
+      <!-- ============ FAQ — vraag-gestuurd, matcht JSON-LD hierboven ============ -->
+      <h2 style="margin-top:40px;">Veelgestelde vragen</h2>
+      <div class="faq" style="margin-top:16px;">
+        <details open><summary>{{Vraag 1?}}</summary><p>{{Antwoord 1 — gelijk aan de JSON-LD.}}</p></details>
+        <details><summary>{{Vraag 2?}}</summary><p>{{Antwoord 2 — gelijk aan de JSON-LD.}}</p></details>
+        <details><summary>{{Vraag 3?}}</summary><p>{{Antwoord 3.}}</p></details>
+      </div>
+
+      <!-- 🔧 GERELATEERD: interne links versterken je hele site -->
+      <div class="related">
+        <h3>Lees ook</h3>
+        <div class="links">
+          <a href="product.html">Het ik-boekje</a>
+          <a href="inspiratie.html">Inspiratie &amp; tips</a>
+          <a href="{{andere-seo-pagina.html}}">{{Gerelateerd onderwerp}}</a>
+        </div>
+      </div>
+    </article>
+  </div>
+
+  <!-- 🔧 CTA: elke SEO-pagina stuurt naar het product -->
+  <section class="block tight">
+    <div class="wrap">
+      <div class="cta-band">
+        <h2>{{Pakkende CTA-kop}}</h2>
+        <p>{{Eén zin die de stap naar het product logisch maakt.}}</p>
+        <a href="product.html" class="btn">Bekijk het ik-boekje</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script src="assets/site.js"></script>
+</body>
+</html>

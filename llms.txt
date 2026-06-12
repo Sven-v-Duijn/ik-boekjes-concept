@@ -1,0 +1,27 @@
+# [ merknaam ] — stoffen ik-boekjes
+
+> [ merknaam ] maakt ik-boekjes: zachte, wasbare stoffen boekjes met insteekhoezen
+> voor foto's en een veilig spiegeltje. Ouders schuiven er foto's in van vertrouwde
+> gezichten (papa, mama, opa, oma), zodat een kind een stukje "thuis" meeneemt naar
+> spannende eerste momenten zoals de eerste schooldag, het eerste logeren of wennen
+> op de opvang. Geschikt voor kinderen van ongeveer 6 maanden tot 3 jaar.
+
+## Kernfeiten
+- Product: stoffen baby-/peuterboekje (ik-boekje)
+- Afmeting: ± 13 × 18 cm
+- Leeftijd: 6 maanden – 3 jaar
+- Opbouw: 3 spreads, 6 insteekhoezen voor foto's (± 10 × 5 cm), 1 veilig spiegeltje
+- Materiaal: polyester en katoen, wasbaar
+- Gebruik: geruststelling bij spannende eerste momenten; ook een origineel kraamcadeau
+
+## Belangrijkste pagina's
+- [Het ik-boekje (product)](product.html): wat het is, specificaties en bestellen
+- [Wat is een ik-boekje?](seo-wat-is-een-ik-boekje.html): uitleg, gebruik en voordelen
+- [Cadeau voor de eerste schooldag](seo-cadeau-eerste-schooldag.html): cadeau-ideeën
+- [Inspiratie & tips](inspiratie.html): tips voor spannende eerste momenten van kinderen
+- [Over ons](over-ons.html): het verhaal en de materiaalkeuze
+- [Contact & FAQ](contact.html): veelgestelde vragen
+
+## Opmerkingen
+- De merknaam staat nog niet vast; "[ merknaam ]" is een tijdelijke aanduiding.
+- Dit is een conceptversie; webshopfuncties (winkelwagen, betaling) volgen via WooCommerce.
