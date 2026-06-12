@@ -23,21 +23,28 @@ Kernbelofte: **geruststelling die je meegeeft** bij spannende eerste momenten.
 Hub-and-spoke: elke spoke linkt omhoog naar zijn pillar + naar het product, en zijwaarts naar 2-3 zusjes.
 
 ### Cluster A — "Ik-boekje" & product (informatief → koop)
-- **Pillar:** `seo-wat-is-een-ik-boekje.html` (wat is een ik-boekje)
+- **Pillar:** `seo-wat-is-een-ik-boekje.html`
 - Spokes: `seo-stoffen-fotoboekje-baby.html`, `seo-voelboekje-baby.html`,
-  `seo-zelf-ik-boekje-maken.html`, `seo-ik-boekje-wassen.html`
+  `seo-zelf-ik-boekje-maken.html`, `seo-ik-boekje-wassen.html`,
+  `seo-ik-boekje-vs-fotoalbum.html`, `seo-sensorisch-speelgoed-baby.html`,
+  `seo-welke-fotos-ik-boekje.html`
 - Commercieel doel: `product.html`
 
 ### Cluster B — "Spannende eerste momenten" (tips/redactioneel)
 - **Pillar/hub:** `inspiratie.html`
-- Spokes: `inspiratie-eerste-schooldag.html`, `inspiratie-eerste-keer-logeren.html`,
-  `inspiratie-wennen-op-de-opvang.html`, `inspiratie-verlatingsangst-eenkennigheid.html`,
-  `inspiratie-eerste-keer-oppas.html`
+- Spokes: `inspiratie-eerste-schooldag.html`, `inspiratie-afscheid-zonder-huilen.html`,
+  `inspiratie-eerste-keer-logeren.html`, `inspiratie-wennen-op-de-opvang.html`,
+  `inspiratie-eerste-keer-oppas.html`, `inspiratie-verlatingsangst-eenkennigheid.html`,
+  `inspiratie-veilige-hechting-baby.html`, `inspiratie-op-reis-met-baby-peuter.html`
 
 ### Cluster C — "Cadeau" (commercieel)
 - **Pillar:** `seo-origineel-kraamcadeau.html`
 - Spokes: `seo-cadeau-eerste-schooldag.html`, `seo-gepersonaliseerd-kraamcadeau.html`,
-  `seo-cadeau-peuter-1-jaar.html`, `seo-cadeau-baby-die-alles-heeft.html`
+  `seo-cadeau-peuter-1-jaar.html`, `seo-cadeau-2-jaar.html`, `seo-cadeau-baby-die-alles-heeft.html`,
+  `seo-cadeau-grote-broer-zus.html`, `seo-doopcadeau.html`, `seo-kraamcadeau-jongen-meisje.html`
+
+> Status: 22 SEO/content-pagina's gebouwd (juni 2026). Audit: alle pagina's hebben
+> direct-antwoord, feiten-tabel, FAQ-schema en gerelateerde links. 0 gebroken interne links.
 
 ## 4. Zoekintentie per type
 - **Informatief** ("wat is…", "tips…", "verlatingsangst") → vertrouwen winnen, zacht naar product.
@@ -72,7 +79,13 @@ Hub-and-spoke: elke spoke linkt omhoog naar zijn pillar + naar het product, en z
 - **Domein:** canonical/sitemap gebruiken `https://www.voorbeeld.nl/` als placeholder → vervangen.
 - **Webshop:** knoppen/forms zijn placeholders → later WooCommerce.
 
-## 9. Backlog — volgende SEO-pagina's (ideeën)
-afscheid school zonder huilen · cadeau 2 jaar · kraamcadeau jongen/meisje ·
-sensorisch speelgoed baby · eerste vliegreis met peuter · dreumes cadeau ·
-"ik-boekje vs fotoalbum" · doopcadeau · cadeau voor groot worden (broer/zus).
+## 9. Backlog — volgende SEO-pagina's (ideeën, nog te doen)
+mijlpalen baby eerste jaar · babyboekje vanaf welke leeftijd · cadeau 3 jaar ·
+verjaardagscadeau peuter · cadeau opa & oma van kleinkind · ik-boekje als verhuiscadeau ·
+zindelijk worden (rust & routine) · slaapritueel baby · cadeau bij broer/zus worden (kleuter) ·
+"knisperboekje vs ik-boekje" · duurzaam babyspeelgoed.
+
+(Gedaan in juni 2026: afscheid zonder huilen, cadeau 1 & 2 jaar, kraamcadeau jongen/meisje,
+sensorisch speelgoed, op reis met baby/peuter, ik-boekje vs fotoalbum, doopcadeau,
+grote broer/zus, gepersonaliseerd kraamcadeau, welke foto's, veilige hechting, logeren, opvang,
+oppas, verlatingsangst, stoffen fotoboekje, voelboekje, zelf maken, wassen.)
