@@ -57,6 +57,9 @@
 - [Kraamvisite: tips & etiquette](inspiratie-kraamvisite-tips.html): fijn en kort bezoek
 - [Zindelijk worden](inspiratie-zindelijk-worden.html): wanneer en hoe je begint
 - [Baby slaapt slecht door](inspiratie-doorslaapproblemen-baby.html): oorzaken en tips
+- [Fopspeen afleren](inspiratie-fopspeen-afleren.html): wanneer en hoe
+- [Peuter eet slecht](inspiratie-peuter-eet-slecht.html): oorzaken en tips voor aan tafel
+- [Ziek kind geruststellen](inspiratie-ziek-kind-geruststellen.html): troost bij koorts
 
 ## Cadeau-ideeën
 - [Origineel kraamcadeau](seo-origineel-kraamcadeau.html): 12 persoonlijke ideeën
@@ -73,6 +76,7 @@
 - [Babyshower cadeau](seo-babyshower-cadeau.html): 10 originele ideeën
 - [Cadeau voor een aanstaande moeder](seo-cadeau-voor-aanstaande-moeder.html): 10 ideeën
 - [Cadeau voor een baby van 6 maanden](seo-cadeau-baby-6-maanden.html): 10 ideeën
+- [Cadeau voor een kind van 4 jaar](seo-cadeau-4-jaar.html): 10 ideeën
 
 ## Opmerkingen
 - De merknaam staat nog niet vast; "[ merknaam ]" is een tijdelijke aanduiding.
