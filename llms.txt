@@ -32,6 +32,7 @@
 - [Babyboekje vanaf welke leeftijd?](seo-babyboekje-vanaf-welke-leeftijd.html): per leeftijd uitgelegd
 - [Knisperboekje of ik-boekje?](seo-knisperboekje-vs-ik-boekje.html): vergelijking
 - [Duurzaam babyspeelgoed](seo-duurzaam-babyspeelgoed.html): waar je op let
+- [Knuffel of ik-boekje?](seo-knuffel-vs-ik-boekje.html): troostvoorwerpen vergeleken
 
 ## Spannende eerste momenten (tips)
 - [De eerste schooldag](inspiratie-eerste-schooldag.html): minder spannend maken
@@ -44,6 +45,8 @@
 - [Op reis met een baby of peuter](inspiratie-op-reis-met-baby-peuter.html): rust onderweg
 - [Mijlpalen in het eerste jaar](inspiratie-mijlpalen-baby-eerste-jaar.html): overzicht van mijlpalen
 - [Slaapritueel voor je baby](inspiratie-slaapritueel-baby.html): rustig naar bed in 6 stappen
+- [Een broertje of zusje krijgen](inspiratie-broertje-of-zusje-krijgen.html): je kind voorbereiden
+- [Verhuizen met een jong kind](inspiratie-verhuizen-met-een-kind.html): rust en wennen
 
 ## Cadeau-ideeën
 - [Origineel kraamcadeau](seo-origineel-kraamcadeau.html): 12 persoonlijke ideeën
@@ -57,6 +60,7 @@
 - [Kraamcadeau voor een jongen of meisje](seo-kraamcadeau-jongen-meisje.html): keuzehulp
 - [Cadeau voor een kind van 3 jaar](seo-cadeau-3-jaar.html): 10 ideeën
 - [Cadeau van opa en oma](seo-cadeau-van-opa-en-oma.html): ideeën die de band versterken
+- [Babyshower cadeau](seo-babyshower-cadeau.html): 10 originele ideeën
 
 ## Opmerkingen
 - De merknaam staat nog niet vast; "[ merknaam ]" is een tijdelijke aanduiding.
