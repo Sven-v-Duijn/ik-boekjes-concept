@@ -28,6 +28,7 @@
 - [Ik-boekje wassen](seo-ik-boekje-wassen.html): onderhoud
 - [Ik-boekje of fotoalbum?](seo-ik-boekje-vs-fotoalbum.html): vergelijking
 - [Sensorisch speelgoed voor baby's](seo-sensorisch-speelgoed-baby.html): zintuigen en ontwikkeling
+- [Welke foto's in een ik-boekje?](seo-welke-fotos-ik-boekje.html): praktische keuzehulp
 
 ## Spannende eerste momenten (tips)
 - [De eerste schooldag](inspiratie-eerste-schooldag.html): minder spannend maken
@@ -36,6 +37,8 @@
 - [De eerste keer een oppas](inspiratie-eerste-keer-oppas.html): voorbereiden
 - [Verlatingsangst en eenkennigheid](inspiratie-verlatingsangst-eenkennigheid.html): normaal en gezond
 - [Afscheid nemen zonder huilen](inspiratie-afscheid-zonder-huilen.html): 7 tips voor een soepel afscheid
+- [Veilige hechting bij je baby](inspiratie-veilige-hechting-baby.html): wat het is en hoe je het versterkt
+- [Op reis met een baby of peuter](inspiratie-op-reis-met-baby-peuter.html): rust onderweg
 
 ## Cadeau-ideeën
 - [Origineel kraamcadeau](seo-origineel-kraamcadeau.html): 12 persoonlijke ideeën
@@ -44,6 +47,9 @@
 - [Cadeau voor een peuter van 1 jaar](seo-cadeau-peuter-1-jaar.html): 10 ideeën
 - [Cadeau voor een kind van 2 jaar](seo-cadeau-2-jaar.html): 10 ideeën
 - [Cadeau voor de baby die alles al heeft](seo-cadeau-baby-die-alles-heeft.html): 9 ideeën
+- [Cadeau voor de grote broer of zus](seo-cadeau-grote-broer-zus.html): bij een nieuwe baby
+- [Doopcadeau](seo-doopcadeau.html): 10 betekenisvolle ideeën
+- [Kraamcadeau voor een jongen of meisje](seo-kraamcadeau-jongen-meisje.html): keuzehulp
 
 ## Opmerkingen
 - De merknaam staat nog niet vast; "[ merknaam ]" is een tijdelijke aanduiding.
