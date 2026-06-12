@@ -1,0 +1,10 @@
+# robots.txt — vervang het domein zodra dat bekend is.
+User-agent: *
+Allow: /
+
+# Interne, tijdelijke overzichtspagina niet indexeren
+Disallow: /seo.html
+Disallow: /seo-template.html
+
+# AI-assistenten: zie ook /llms.txt voor een beknopte uitleg van de site.
+Sitemap: https://www.voorbeeld.nl/sitemap.xml

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Vervang https://www.voorbeeld.nl/ door je echte domein zodra dat bekend is. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.voorbeeld.nl/index.html</loc><lastmod>2026-06-13</lastmod><priority>1.0</priority></url>
+  <url><loc>https://www.voorbeeld.nl/product.html</loc><lastmod>2026-06-13</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.voorbeeld.nl/inspiratie.html</loc><lastmod>2026-06-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.voorbeeld.nl/over-ons.html</loc><lastmod>2026-06-13</lastmod><priority>0.5</priority></url>
+  <url><loc>https://www.voorbeeld.nl/contact.html</loc><lastmod>2026-06-13</lastmod><priority>0.4</priority></url>
+
+  <url><loc>https://www.voorbeeld.nl/seo-wat-is-een-ik-boekje.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-stoffen-fotoboekje-baby.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-voelboekje-baby.html</loc><lastmod>2026-06-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-zelf-ik-boekje-maken.html</loc><lastmod>2026-06-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-ik-boekje-wassen.html</loc><lastmod>2026-06-13</lastmod><priority>0.6</priority></url>
+
+  <url><loc>https://www.voorbeeld.nl/inspiratie-eerste-schooldag.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/inspiratie-eerste-keer-logeren.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/inspiratie-wennen-op-de-opvang.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/inspiratie-eerste-keer-oppas.html</loc><lastmod>2026-06-13</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.voorbeeld.nl/inspiratie-verlatingsangst-eenkennigheid.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+
+  <url><loc>https://www.voorbeeld.nl/seo-origineel-kraamcadeau.html</loc><lastmod>2026-06-13</lastmod><priority>0.9</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-gepersonaliseerd-kraamcadeau.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-cadeau-eerste-schooldag.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-cadeau-peuter-1-jaar.html</loc><lastmod>2026-06-13</lastmod><priority>0.8</priority></url>
+  <url><loc>https://www.voorbeeld.nl/seo-cadeau-baby-die-alles-heeft.html</loc><lastmod>2026-06-13</lastmod><priority>0.7</priority></url>
+</urlset>

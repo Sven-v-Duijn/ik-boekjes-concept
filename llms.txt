@@ -16,11 +16,30 @@
 
 ## Belangrijkste pagina's
 - [Het ik-boekje (product)](product.html): wat het is, specificaties en bestellen
-- [Wat is een ik-boekje?](seo-wat-is-een-ik-boekje.html): uitleg, gebruik en voordelen
-- [Cadeau voor de eerste schooldag](seo-cadeau-eerste-schooldag.html): cadeau-ideeën
-- [Inspiratie & tips](inspiratie.html): tips voor spannende eerste momenten van kinderen
 - [Over ons](over-ons.html): het verhaal en de materiaalkeuze
+- [Inspiratie & tips](inspiratie.html): hub met tips voor spannende eerste momenten
 - [Contact & FAQ](contact.html): veelgestelde vragen
+
+## Ik-boekje & product (uitleg)
+- [Wat is een ik-boekje?](seo-wat-is-een-ik-boekje.html): uitleg, gebruik en voordelen
+- [Stoffen fotoboekje voor baby](seo-stoffen-fotoboekje-baby.html): soorten en keuzehulp
+- [Voelboekje voor baby](seo-voelboekje-baby.html): zintuigen en ontwikkeling
+- [Zelf een ik-boekje maken](seo-zelf-ik-boekje-maken.html): stappenplan
+- [Ik-boekje wassen](seo-ik-boekje-wassen.html): onderhoud
+
+## Spannende eerste momenten (tips)
+- [De eerste schooldag](inspiratie-eerste-schooldag.html): minder spannend maken
+- [Eerste keer logeren bij opa en oma](inspiratie-eerste-keer-logeren.html): 8 tips
+- [Wennen op de opvang](inspiratie-wennen-op-de-opvang.html): zachte start
+- [De eerste keer een oppas](inspiratie-eerste-keer-oppas.html): voorbereiden
+- [Verlatingsangst en eenkennigheid](inspiratie-verlatingsangst-eenkennigheid.html): normaal en gezond
+
+## Cadeau-ideeën
+- [Origineel kraamcadeau](seo-origineel-kraamcadeau.html): 12 persoonlijke ideeën
+- [Gepersonaliseerd kraamcadeau](seo-gepersonaliseerd-kraamcadeau.html): met naam of foto
+- [Cadeau voor de eerste schooldag](seo-cadeau-eerste-schooldag.html): 9 ideeën
+- [Cadeau voor een peuter van 1 jaar](seo-cadeau-peuter-1-jaar.html): 10 ideeën
+- [Cadeau voor de baby die alles al heeft](seo-cadeau-baby-die-alles-heeft.html): 9 ideeën
 
 ## Opmerkingen
 - De merknaam staat nog niet vast; "[ merknaam ]" is een tijdelijke aanduiding.
